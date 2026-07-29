@@ -1,6 +1,9 @@
 ᓚ₍ ^. .^₎ 
 - 🌱 I’m currently on a Backend Programming path :) 
 Here are some of my Boot.dev acomplisments.
+
+![Alt Text](https://user-images.githubusercontent.com/example-image.png)
+<img src="(https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583)](https://www.boot.dev/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2)" alt="Alt Text" width="300" height="200">
 [![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583)](https://www.boot.dev/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2)
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bec5c79c-c823-4d64-ad20-ebb0daec1bba.jpeg?v=1776257122)](https://www.boot.dev/certificates/bec5c79c-c823-4d64-ad20-ebb0daec1bba)
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/027cdebc-505f-47e8-85cb-cb77fd74303d.jpeg?v=1777887767)](https://www.boot.dev/certificates/027cdebc-505f-47e8-85cb-cb77fd74303d)
