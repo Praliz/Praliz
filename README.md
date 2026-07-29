@@ -1,6 +1,6 @@
 ᓚ₍ ^. .^₎ 
 - 🌱 I’m currently on a Backend Programming path :) 
-In my free time i am a paragliding instructor 🪂 its very inconvenient to come up with a solution to code while soaring in the sky... but everything has trade offs :D 
+In my free time i am a paragliding instructor 🪂 its very inconvenient to come up with a solution to a function or algorithm while soaring in the sky... but everything has trade offs :D 
 Here are some of my Boot.dev acomplisments.
 The direct link to my profile is:
 https://www.boot.dev/u/proudconcert82
