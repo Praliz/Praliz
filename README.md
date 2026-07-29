@@ -1,6 +1,8 @@
 ᓚ₍ ^. .^₎ 
 - 🌱 I’m currently on a Backend Programming path :) 
 Here are some of my Boot.dev acomplisments.
+The direct link to my profile is:
+https://www.boot.dev/u/proudconcert82
 
 
 <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583" alt="Alt Text" width="350" height="250"><img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bec5c79c-c823-4d64-ad20-ebb0daec1bba.jpeg?v=1776257122" alt="Alt Text" width="350" height="250">
