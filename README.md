@@ -1,9 +1,4 @@
-## Hi there 👋
-[![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583)](https://www.boot.dev/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2)
-<!--
-**Praliz/Praliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ᓚ₍ ^. .^₎ 
 - 🌱 I’m currently on a Backend Programming path :) 
 Here are some of my Boot.dev acomplisments.
 [![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583)](https://www.boot.dev/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2)
@@ -14,6 +9,3 @@ Here are some of my Boot.dev acomplisments.
 [![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d8f9094b-b724-4b92-85a1-1848854986b8.jpeg?v=1780892704)](https://www.boot.dev/certificates/d8f9094b-b724-4b92-85a1-1848854986b8)
 [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a7a70bca-7e81-49fe-9b5d-4eca506b581f.jpeg?v=1776639017)](https://www.boot.dev/certificates/a7a70bca-7e81-49fe-9b5d-4eca506b581f)
 [![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/1e158bd0-e2db-4d75-bfaf-194d5d035266.jpeg?v=1780301869)](https://www.boot.dev/certificates/1e158bd0-e2db-4d75-bfaf-194d5d035266)
-
-
--->
