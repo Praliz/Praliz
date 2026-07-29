@@ -4,6 +4,12 @@ Here are some of my Boot.dev acomplisments.
 
 
 <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583" alt="Alt Text" width="500" height="300">
+<img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bec5c79c-c823-4d64-ad20-ebb0daec1bba.jpeg?v=1776257122" alt="Alt Text" width="500" height="300">
+
+<img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583" alt="Alt Text" width="500" height="300">
+<img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583" alt="Alt Text" width="500" height="300">
+<img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583" alt="Alt Text" width="500" height="300">
+<img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583" alt="Alt Text" width="500" height="300">
 
 
 <!--
