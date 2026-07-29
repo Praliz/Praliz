@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2.jpeg?v=1781617583)](https://www.boot.dev/certificates/696c6625-331e-4914-9b5b-5d3f107ef3d2)
 <!--
 **Praliz/Praliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
