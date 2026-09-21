@@ -3,7 +3,7 @@
 In my free time i am a paragliding instructor 🪂 its very inconvenient to come up with a solution to a function or algorithm while soaring in the sky... but everything has trade offs :D 
 Here are some of my Boot.dev acomplisments.
 The direct link to my profile is:
-https://www.boot.dev/u/proudconcert82
+https://www.boot.dev/u/praliz
 
 
 <a href="https://www.boot.dev/certificates/bec5c79c-c823-4d64-ad20-ebb0daec1bba">
