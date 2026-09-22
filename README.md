@@ -1,6 +1,7 @@
 ᓚ₍ ^. .^₎ 
 - 🌱 I’m currently on a Backend Programming path :) 
-In my free time i am a paragliding instructor 🪂 its very inconvenient to come up with a solution to a function or algorithm while soaring in the sky... but everything has trade offs :D 
+In my free time i am a paragliding instructor 🪂 its very inconvenient to come up with a solution to a function or algorithm while soaring in the sky... but everything has trade offs
+I currently work in a technical position and see a demand for closing the gap between technical knowledge and end user requirements/needs. I have a product development and innovation Degree and i think its about time to truly deep dive into the backend to understand whats truly possible and how things are implemented.
 Here are some of my Boot.dev acomplisments.
 The direct link to my profile is:
 https://www.boot.dev/u/praliz
